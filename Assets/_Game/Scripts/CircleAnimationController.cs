@@ -10,13 +10,7 @@ public class CircleAnimationController : MonoBehaviour {
     public GameObject redCircle;
     public GameObject yellowCircle;
 
-
-    public AnimationCurve curve;
-
     public float speed = 1.0f;
-
-
-
 
     // Use this for initialization
     void Start()
